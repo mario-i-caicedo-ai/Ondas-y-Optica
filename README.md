@@ -11,7 +11,12 @@
 
 [Física 5](notas/fisica5book.pdf), este documento contiene los temas de propagación de ondas comunes entre el curso de física 5 y el curso de ondas y óptica
 
+## Tareas
 
+[Tarea 0](tareas/Ondas_y_Optica_Tarea_0.pdf)  Repaso de oscilaciones armónicas.
+[Tarea 1]
+
+---------------------------------------------------------------
 
 ## Como crear un folder nuevo:
 
