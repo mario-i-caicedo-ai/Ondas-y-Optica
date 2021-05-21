@@ -14,7 +14,7 @@
 ## Tareas
 
 [Tarea 0](tareas/Ondas_y_Optica_Tarea_0.pdf)  Repaso de oscilaciones armónicas.
-[Tarea 1]
+[Tarea 1](tareas/Ondas_y_Optica_Tarea_1 (1).pdf) Oscilaciones amortiguadas.
 
 ---------------------------------------------------------------
 
