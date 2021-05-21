@@ -9,7 +9,7 @@
 
 ## Material Escrito
 
-[CL0: Introducción](clases/CLASE_0_Intro_Rel_II_1_Welcome.pdf)
+[CL0: Introducción](notas/isica5book.pdf)
 
 
 
