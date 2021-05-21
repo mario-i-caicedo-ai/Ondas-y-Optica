@@ -2,10 +2,8 @@
 
 ## Cuadernos jupyter disponibles.
 
-[Álgebra de Lorentz I](notebooks/Álgebra_de_Lorentz_so(3).ipynb) estudia la representación fundamental del álgebra de Lorentz sin justificación alguna para la forma de los generadores.
+[Oscilaciones Amortiguadas](notebooks/Ondas_y_Óptica_Oscilaciones_Amortiguadas.ipynb) Estudio del comportamiento cualitativo del oscilador amortiguado.
 
-[Álgebra de Lorentz II](notebooks/so(3)_intermedio.ipynb), presenta un tratamiento más completo utilizando la forma estándar de los generadores de so(n,m) en la normalización de Wu Ki Tung en el lobro **Group Theory in Physics** (compatible con S. Weinberg en **The Quantum Theory of Fields,Vol 1**). 
- 
 
 ## Material Escrito
 
