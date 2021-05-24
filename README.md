@@ -1,15 +1,16 @@
 # Ondas y Óptica
 
+## Material Escrito
+
+[Física 5](notas/fisica5book.pdf) Documento que contiene los temas de propagación de ondas comunes entre el curso de física 5 de la Universidad Simón Boloívar y el curso de Ondas y Óptica
+
+
 ## Cuadernos jupyter disponibles.
 
 * Estos cuadernos corren directamente sobre colab. Para ejecutarlos, haga click en el ícono ''open colab'' que encontrará al abrir el enlace al cuaderno.
 
 [Oscilaciones Amortiguadas](notebooks/Ondas_y_Óptica_Oscilaciones_Amortiguadas.ipynb) Estudio del comportamiento cualitativo del oscilador amortiguado.
 
-
-## Material Escrito
-
-[Física 5](notas/fisica5book.pdf) Documento que contiene los temas de propagación de ondas comunes entre el curso de física 5 de la Universidad Simón Boloívar y el curso de Ondas y Óptica
 
 ## Tareas
 
