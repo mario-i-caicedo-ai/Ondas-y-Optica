@@ -13,11 +13,11 @@
 
 ## Tareas
 
-[Semana 1. Tarea 0](tareas/Ondas_y_Optica_Tarea_0.pdf)  Repaso de oscilaciones armónicas.
+[Semana 1. Tarea 0](tareas/Ondas_y_Optica_Tarea_0.pdf).  Repaso de oscilaciones armónicas.
 
-[Semana 2. Tarea 1](tareas/Ondas_y_Optica_Tarea_1.pdf)  Oscilaciones amortiguadas.
+[Semana 2. Tarea 1](tareas/Ondas_y_Optica_Tarea_1.pdf).  Oscilaciones amortiguadas.
 
-[Semana 3. Tarea 2](tareas/Tarea_2_Modos_Normales.pdf)
+[Semana 3. Tarea 2](tareas/Tarea_2_Modos_Normales.pdf). Introducción a las oscilaciones acopladas y modos normales
 
 ---------------------------------------------------------------
 
