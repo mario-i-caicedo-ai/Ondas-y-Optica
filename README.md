@@ -16,11 +16,10 @@
 
 ## Cuadernos jupyter disponibles.
 
-Estos cuadernos corren directamente sobre colab. Para ejecutarlos, haga click en el ícono ''open colab'' que encontrará al abrir el enlace al cuaderno.
-
-[xxx](notebooks/Ondas_y_Óptica_Oscilaciones_Amortiguadas.ipynb)
+Estos cuadernos corren directamente sobre [colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true). Para ejecutarlos, haga click en el ícono ''open colab'' que encontrará al abrir el enlace al cuaderno.
 
 [Oscilaciones Amortiguadas](notebooks/Ondas_y_Óptica_Oscilaciones_Amortiguadas.ipynb)
+
 ---------------------------------------------------------------
 
 ## Como crear un folder nuevo:
