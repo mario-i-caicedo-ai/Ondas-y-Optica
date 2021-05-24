@@ -18,7 +18,7 @@
 
 Estos cuadernos corren directamente sobre colab. Para ejecutarlos, haga click en el ícono ''open colab'' que encontrará al abrir el enlace al cuaderno.
 
-[Oscilaciones Amortiguadas](notebooks/Ondas_y_Óptica_Oscilaciones_Amortiguadas.ipynb) Estudio del comportamiento cualitativo del oscilador amortiguado.
+[Oscilaciones Amortiguadas](notebooks/Ondas_y_Óptica_Oscilaciones_Amortiguadas.ipynb)
 ---------------------------------------------------------------
 
 ## Como crear un folder nuevo:
