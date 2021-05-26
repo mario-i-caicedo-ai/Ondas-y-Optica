@@ -2,7 +2,7 @@
 
 ## Material de Estudio
 
-[Semana 2. Modos Normales y Álgebra Lineal](notas/Modos_Normales_cambio_de_base.pdf) Esta nota corta complementa el material de estudio de la tarea #1
+[Semana 2. Modos Normales y Álgebra Lineal](notas/Modos_Normales_cambio_de_base.pdf) Esta nota corta, que trata el tema de dos osciladores acoplados,  complementa el material de estudio de la tarea #1
 
 [Semanas 2, 3 y 4. Modos Normales de N Osciladores](notas/Modos_Normales_de_N_Osciladores.pdf)
 
