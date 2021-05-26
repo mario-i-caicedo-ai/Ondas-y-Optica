@@ -2,9 +2,11 @@
 
 ## Material Escrito
 
+[Modos Normales y Álgebra Lineal](notas/Modos_Normales_cambio_de_base.pdf) Esta nota corta complementa el material de estudio de la tarea #1
+
 [Física 5](notas/fisica5book.pdf) Documento que contiene los temas de propagación de ondas comunes entre el curso de física 5 de la Universidad Simón Bolívar y el curso de Ondas y Óptica
 
-[Modos Normales y Álgebra Lineal](notas/Modos_Normales_cambio_de_base.pdf) Esta nota corta complementa el material de estudio de la tarea #1
+
 
 
 ## Tareas
