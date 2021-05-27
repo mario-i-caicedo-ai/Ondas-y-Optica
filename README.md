@@ -28,7 +28,7 @@ Estos cuadernos corren directamente sobre [colab](https://colab.research.google.
 
 [Oscilaciones Amortiguadas](notebooks/Ondas_y_Óptica_Oscilaciones_Amortiguadas.ipynb)
 
-[Modos Normales de la cuerda con extremos fijos](Modos_Normales_Cuerda_Vibrante.ipynb)
+[Modos Normales de la cuerda con extremos fijos](notebooks/Modos_Normales_Cuerda_Vibrante.ipynb)
 
 [La cuerda ''pellizcada''](notebooks/Plucked_String.ipynb). Solución explícita a un problema de cuerda vibrante. ANIMACIÓN 
 
