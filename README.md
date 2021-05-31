@@ -21,7 +21,7 @@
 
 [Semana 3. Tarea 2](tareas/Tarea_2_Modos_Normales.pdf). Introducción a las oscilaciones acopladas y modos normales
 
-[prueba](https://www.compadre.org/osp/EJSS/4137/164.htm)
+[Semanas 3 y 4. Haga algunos experimentos](https://www.compadre.org/osp/EJSS/4137/164.htm). Este enlace le permitirá reforzar algunos conceptos relacionados con los modos normales.
 
 ## Cuadernos jupyter disponibles.
 
