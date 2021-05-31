@@ -11,7 +11,7 @@
 [Notas del curso Física 5](notas/fisica5book.pdf) Este documento contiene temas de propagación de ondas 
 del curso de física 5 de la Universidad Simón Bolívar que se solapan con temas del curso de Ondas y Óptica
 
-[Acoustica and Vibration Animatinos](https://www.acs.psu.edu/drussell/demos.html). Esta página del Dr. Daniel A. Rusell contiene numerosas animaciones relacionadas con los temas de este curso.
+[Acoustica and Vibration Animations](https://www.acs.psu.edu/drussell/demos.html). Esta página del Dr. Daniel A. Rusell contiene numerosas animaciones relacionadas con los temas de este curso.
 
 
 ## Tareas
