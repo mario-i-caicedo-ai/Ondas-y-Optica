@@ -6,7 +6,7 @@
 
 [Semanas 2, 3 y 4. Modos Normales de N Osciladores](notas/Modos_Normales_de_N_Osciladores.pdf) Estudio de un método general para  sistemas oscilantes lineales acoplados 
 
-[Semanas 3 y 4. Modos Normales de N Osciladores, el limite del contínuo]() En el límite en que el número de osciladores crece al infinito, el sistema pasa a un contínuo. En el caso de estas notas, el límite corresponde a las oscilaciones transversales de una cuerda tensa.
+[Semanas 4 y 5. Modos Normales de N Osciladores, el limite del contínuo]() En el límite en que el número de osciladores crece al infinito, el sistema pasa a un contínuo. En el caso de estas notas, el límite corresponde a las oscilaciones transversales de una cuerda tensa.
 
 [Física 5](notas/fisica5book.pdf) Documento que contiene los temas de propagación de ondas comunes entre el curso de física 5 de la Universidad Simón Bolívar y el curso de Ondas y Óptica
 
