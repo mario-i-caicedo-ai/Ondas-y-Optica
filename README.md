@@ -26,6 +26,22 @@ del curso de física 5 de la Universidad Simón Bolívar que se solapan con tema
 
 [Semana 4](). 
 
+[Semana 5](). 
+
+[Semana 6](). 
+
+[Semana 7]().
+
+[Semana 8](). 
+
+[Semana 9](). 
+
+[Semana 10]().
+
+[Semana 11](). 
+
+[Semana 12](). 
+
 ## Cuadernos jupyter disponibles.
 
 Estos cuadernos corren directamente sobre [colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true). Para ejecutarlos, haga click en el ícono ''open colab'' que encontrará al abrir el enlace al cuaderno.
