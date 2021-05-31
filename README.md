@@ -6,6 +6,8 @@
 
 [Semanas 2, 3 y 4. Modos Normales de N Osciladores](notas/Modos_Normales_de_N_Osciladores.pdf) Estudio de un método general para  sistemas oscilantes lineales acoplados 
 
+[Semanas 3 y 4. Experimente con Osciladores acoplados](https://www.compadre.org/osp/EJSS/4137/164.htm). Este enlace le permitirá reforzar algunos conceptos relacionados con los modos normales.
+
 [Semanas 4 y 5. Modos Normales de N Osciladores, el limite del contínuo](notas/SEMANA_4_5__Modos_Normales_Paso_AL_Cont_nuo.pdf) En el límite en que el número de osciladores crece al infinito, el sistema pasa a un contínuo. En el caso de estas notas, el límite corresponde a las oscilaciones transversales de una cuerda tensa.
 
 [Notas del curso Física 5](notas/fisica5book.pdf) Este documento contiene temas de propagación de ondas 
@@ -22,7 +24,7 @@ del curso de física 5 de la Universidad Simón Bolívar que se solapan con tema
 
 [Semana 3. Tarea 2](tareas/Tarea_2_Modos_Normales.pdf). Introducción a las oscilaciones acopladas y modos normales
 
-[Semanas 3 y 4. Haga algunos experimentos](https://www.compadre.org/osp/EJSS/4137/164.htm). Este enlace le permitirá reforzar algunos conceptos relacionados con los modos normales.
+[Semana 4](). 
 
 ## Cuadernos jupyter disponibles.
 
