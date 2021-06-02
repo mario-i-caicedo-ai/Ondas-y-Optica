@@ -1,5 +1,10 @@
 # Ondas y Óptica
 
+## Bibliografía para el curso
+
+* A. P. French. *Vibraciones y Ondas*. Editorial Reverté. 
+* F. S., Jr. Crawford. *Ondas*. Volumen III del Curso de Física de la Universidad de Berkeley. Editorial Reverté.
+
 ## Material de Estudio
 
 [Semana 2. Modos Normales y Álgebra Lineal](notas/Modos_Normales_cambio_de_base.pdf) Esta nota corta, que trata el tema de dos osciladores acoplados,  complementa el material de estudio de la tarea #1
