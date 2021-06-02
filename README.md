@@ -24,7 +24,7 @@ del curso de física 5 de la Universidad Simón Bolívar que se solapan con tema
 
 [Semana 3. Tarea 2](tareas/Tarea_2_Modos_Normales.pdf). Introducción a las oscilaciones acopladas y modos normales
 
-[Semana 4](tareas/Seemana_4__Tarea_3.pdf). Resonancia en osciladores acoplados. Introducción a la **Ecuación de Ondas, ondas viajeras y estacionarias** 
+[Semana 4. Tarea 3](tareas/Seemana_4__Tarea_3.pdf). Resonancia en osciladores acoplados. Introducción a la **Ecuación de Ondas, ondas viajeras y estacionarias** 
 
 [Semana 5](). 
 
