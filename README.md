@@ -53,6 +53,9 @@ Estos cuadernos corren directamente sobre [colab](https://colab.research.google.
 
 [Oscilaciones Amortiguadas](https://github.com/mario-i-caicedo-ai/Ondas-y-Optica/blob/main/notebooks/Ondas_y_%C3%93ptica_Oscilaciones_Amortiguadas.ipynb)
 
+[Oscilaciones Amortiguadas 2](https://colab.research.google.com/github.com/mario-i-caicedo-ai/Ondas-y-Optica/blob/main/notebooks/Ondas_y_%C3%93ptica_Oscilaciones_Amortiguadas.ipynb)
+
+
 [Modos Normales de la cuerda con extremos fijos](https://colab.research.google.com/github/mario-i-caicedo-ai/Ondas-y-Optica/blob/main/notebooks/3_Osciladores_Acoplados.ipynb)
 
 [La cuerda ''pellizcada''](notebooks/Plucked_String.ipynb). Solución explícita a un problema de cuerda vibrante. ANIMACIÓN 
