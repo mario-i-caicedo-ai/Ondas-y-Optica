@@ -18,9 +18,6 @@
 [Semana 5. Presentación](notas/SEMANA_5_Ondas_y_Optica_Parte_II.pdf). Comienza la segunda etapa del curso. **Fenómenos de propagación de ondas**. En esta parte nos concentraremos en las [Notas del curso Física 5](notas/fisica5book.pdf), documento contiene 
 temas del curso de física 5 de la Universidad Simón Bolívar que se solapan con temas del curso de Ondas y Óptica
 
-[Acoustics and Vibration Animations](https://www.acs.psu.edu/drussell/demos.html). Esta página del Dr. Daniel A. Rusell contiene numerosas animaciones relacionadas con los temas de este curso.
-
-
 ## Tareas
 
 [Semana 1. Tarea 0](tareas/Ondas_y_Optica_Tarea_0.pdf).  Repaso de oscilaciones armónicas.
@@ -41,7 +38,7 @@ temas del curso de física 5 de la Universidad Simón Bolívar que se solapan co
 
 [Semana 9](). 
 
-[Semana 10]().
+[Semana 10]().de propagación de ondas
 
 [Semana 11](). 
 
@@ -56,6 +53,11 @@ Estos cuadernos corren directamente sobre [colab](https://colab.research.google.
 [Modos Normales de la cuerda con extremos fijos]()
 
 [La cuerda ''pellizcada''].() Solución explícita a un problema de cuerda vibrante. ANIMACIÓN 
+
+## Material de Apoyo
+
+
+[Acoustics and Vibration Animations](https://www.acs.psu.edu/drussell/demos.html). Esta página del Dr. Daniel A. Rusell contiene numerosas animaciones relacionadas con los temas de este curso.
 
 ---------------------------------------------------------------
 
