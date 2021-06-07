@@ -15,6 +15,8 @@
 
 [Semanas 4 y 5. Modos Normales de N Osciladores, el limite del contínuo](notas/SEMANA_4_5__Modos_Normales_Paso_AL_Cont_nuo.pdf) En el límite en que el número de osciladores crece al infinito, el sistema pasa a un contínuo. En el caso de estas notas, el límite corresponde a las oscilaciones transversales de una cuerda tensa.
 
+[Semana 5]()
+
 [Notas del curso Física 5](notas/fisica5book.pdf) Este documento contiene temas de propagación de ondas 
 del curso de física 5 de la Universidad Simón Bolívar que se solapan con temas del curso de Ondas y Óptica
 
