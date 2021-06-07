@@ -8,11 +8,12 @@ Este curso de nivel introductorio, presenta algunos contenidos tanto de la físi
 
 * Oscilaciones Lineales
 * Osciladores acoplados
-* Límite del contínuo y ecuación de ondas
-* Construcción de la ecuación de Ondas a través de Otras técnicas
-  * Línea de Transmisión
+ * Límite del contínuo y ecuación de ondas
+* La ecuación de ondas
+  * Línea de Transmisión, ecuaciones telegráficas y aproximación de cero pérdida
   * Cuerda Vibrante
-  * Ondas electromagnéticas
+  * Ondas en Tres dimensiones
+   * Ondas electromagnéticas
 * Energía y su propagación. Vector de Poynting
 * Interfrencia y Difracción
 * Ecuación Eikonal y Óptica Geométrica. Relación con el Principio de Fermat    
