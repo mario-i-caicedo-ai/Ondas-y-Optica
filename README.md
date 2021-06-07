@@ -31,6 +31,8 @@ Este curso de nivel introductorio, presenta algunos contenidos tanto de la físi
 
 ## Material de Estudio
 
+[Semana 1.]. Repaso de mecánica del punto y ecuaciones diferenciales
+
 [Semana 2. Modos Normales y Álgebra Lineal](notas/Modos_Normales_cambio_de_base.pdf) Esta nota corta, que trata el tema de dos osciladores acoplados,  complementa el material de estudio de la tarea #1
 
 [Semanas 2, 3 y 4. Modos Normales de N Osciladores](notas/Modos_Normales_de_N_Osciladores.pdf) Estudio de un método general para  sistemas oscilantes lineales acoplados 
