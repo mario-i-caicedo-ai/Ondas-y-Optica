@@ -81,7 +81,7 @@ Estos cuadernos corren directamente sobre [colab](https://colab.research.google.
 
 [Modos Normales de la cuerda con extremos fijos](cuadernos/Modos_Normales_Cuerda_Vibrante.ipynb)
  
-[Modos Normales de una membrana rectangular](cuadernos/Modos_Normales_Cuerda_Vibrante.ipynb)
+[Modos Normales de una membrana rectangular](cuadernos/Modos_Normales_Membrana_rectangular.ipynb)
 
 [Modos Normales de una membrana circular](cuadernos/Modos_Normales_Cuerda_Vibrante.ipynb)
 
