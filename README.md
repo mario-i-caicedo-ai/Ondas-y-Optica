@@ -38,7 +38,7 @@ temas del curso de física 5 de la Universidad Simón Bolívar que se solapan co
 
 [Semana 9](). 
 
-[Semana 10]().de propagación de ondas
+[Semana 10]().
 
 [Semana 11](). 
 
