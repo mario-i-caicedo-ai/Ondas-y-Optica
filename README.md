@@ -1,5 +1,22 @@
 # Ondas y Óptica
 
+## Descripción
+
+Este curso de nivel introductorio, presenta algunos contenidos tanto de la física ondulatoria y ''óptica geométrica'', como de algunos métodos matemáticos de interés para tales temas.
+
+### Algunos temas del Curso
+
+* Oscilaciones Lineales
+* Osciladores acoplados
+* Límite del contínuo y ecuación de ondas
+* Construcción de la ecuación de Ondas a través de Otras técnicas
+  * Línea de Transmisión
+  * Cuerda Vibrante
+  * Ondas electromagnéticas
+* Energía y su propagación. Vector de Poynting
+* Interfrencia y Difracción
+* Ecuación Eikonal y Óptica Geométrica. Relación con el Principio de Fermat    
+
 ## Bibliografía para el curso
 
 * A. P. French. *Vibraciones y Ondas*. Editorial Reverté. 
