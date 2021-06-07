@@ -25,8 +25,8 @@ Este curso de nivel introductorio, presenta algunos contenidos tanto de la físi
 
 ## Bibliografía Avanzada
 
-1 B. A. Auld, *Acoustic fields and waves in solids*, A Wiley-Interscience publication, 1973. isbn 9785885013437
-2 M. Born & E. Wolf, *Principles of Optics*, Cambridge University Press, 1999. isbn 9780521642224
+1. B. A. Auld, *Acoustic fields and waves in solids*, A Wiley-Interscience publication, 1973. isbn 9785885013437
+2. M. Born & E. Wolf, *Principles of Optics*, Cambridge University Press, 1999. isbn 9780521642224
 
 
 ## Material de Estudio
