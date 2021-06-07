@@ -33,7 +33,7 @@ del curso de física 5 de la Universidad Simón Bolívar que se solapan con tema
 
 [Semana 4. Tarea 3](tareas/Seemana_4__Tarea_3.pdf). Resonancia en osciladores acoplados. Introducción a la **Ecuación de Ondas, ondas viajeras y estacionarias** 
 
-[Semana 5](). 
+[Semana 5](Esta presentación marca el comienzo de la segunda etapa del curso. En esta etapa estudiaremos fenómenos de propagación de ondas). 
 
 [Semana 6](). 
 
