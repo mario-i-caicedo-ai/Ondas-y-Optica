@@ -85,7 +85,7 @@ Estos cuadernos corren directamente sobre [colab](https://colab.research.google.
 
 [Modos Normales de una membrana circular](cuadernos/Modos_Normales_Membrana_Circular.ipynb)
 
-[La cuerda ''pellizcada''] Solución explícita a un problema de cuerda vibrante. ANIMACIÓN
+[La cuerda ''pellizcada''](cuadernos/Plucked_String.ipynb) Solución explícita a un problema de cuerda vibrante. ANIMACIÓN
 
 [Onda Viajera](cuadernos/Onda_Viajera_1D.ipynb) Solución explícita a un problema de cuerda vibrante. ANIMACIÓN 
 
