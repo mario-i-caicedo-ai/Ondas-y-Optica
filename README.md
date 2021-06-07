@@ -79,15 +79,19 @@ Estos cuadernos corren directamente sobre [colab](https://colab.research.google.
 
 [Oscilaciones Amortiguadas]()
 
-[Modos Normales de la cuerda con extremos fijos]()
+[Modos Normales de la cuerda con extremos fijos](cuadernos/Modos_Normales_Cuerda_Vibrante.ipynb)
+ 
+[Modos Normales de una membrana rectangular](cuadernos/Modos_Normales_Cuerda_Vibrante.ipynb)
 
-[La cuerda ''pellizcada''](cuadernos/Plucked_String.ipynb) Solución explícita a un problema de cuerda vibrante. ANIMACIÓN 
+[Modos Normales de una membrana circular](cuadernos/Modos_Normales_Cuerda_Vibrante.ipynb)
+
+[La cuerda ''pellizcada''](cuadernos/Plucked_String.ipynb) Solución explícita a un problema de cuerda vibrante. ANIMACIÓN
 
 [Onda Viajera](cuadernos/Onda_Viajera_1D.ipynb) Solución explícita a un problema de cuerda vibrante. ANIMACIÓN 
 
 ## Material de Apoyo
 
-
+cuerda con extremos fijos
 [Acoustics and Vibration Animations](https://www.acs.psu.edu/drussell/demos.html). Esta página del Dr. Daniel A. Rusell contiene numerosas animaciones relacionadas con los temas de este curso.
 
 ---------------------------------------------------------------
