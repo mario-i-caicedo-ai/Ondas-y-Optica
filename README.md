@@ -89,6 +89,8 @@ Estos cuadernos corren directamente sobre [colab](https://colab.research.google.
 
 [Onda Viajera](cuadernos/Onda_Viajera_1D.ipynb) Solución explícita a un problema de cuerda vibrante. ANIMACIÓN 
 
+[Ondas Dispersivas](cuadernos/Dispersión.ipynb)
+
 ## Material de Apoyo
 
 cuerda con extremos fijos
