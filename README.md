@@ -83,7 +83,7 @@ Estos cuadernos corren directamente sobre [colab](https://colab.research.google.
 
 [La cuerda ''pellizcada''].(cuadernos/Plucked_String.ipynb) Solución explícita a un problema de cuerda vibrante. ANIMACIÓN 
 
-[Onda Viajera].(/cuadernos/Onda_Viajera_1D.ipynb) Solución explícita a un problema de cuerda vibrante. ANIMACIÓN 
+[Onda Viajera].(cuadernos/Onda_Viajera_1D.ipynb) Solución explícita a un problema de cuerda vibrante. ANIMACIÓN 
 
 ## Material de Apoyo
 
