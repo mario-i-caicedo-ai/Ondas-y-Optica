@@ -20,8 +20,8 @@ Este curso de nivel introductorio, presenta algunos contenidos tanto de la físi
 
 ## Bibliografía para el curso
 
-1 A. P. French. *Vibraciones y Ondas*. Editorial Reverté. 
-2 F. S., Jr. Crawford. *Ondas*. Volumen III del Curso de Física de la Universidad de Berkeley. Editorial Reverté.
+1. A. P. French. *Vibraciones y Ondas*. Editorial Reverté. 
+2. F. S., Jr. Crawford. *Ondas*. Volumen III del Curso de Física de la Universidad de Berkeley. Editorial Reverté.
 
 ## Bibliografía Avanzada
 
