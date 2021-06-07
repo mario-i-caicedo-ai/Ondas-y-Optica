@@ -81,7 +81,7 @@ Estos cuadernos corren directamente sobre [colab](https://colab.research.google.
 
 [Modos Normales de la cuerda con extremos fijos]()
 
-[La cuerda ''pellizcada''].() Solución explícita a un problema de cuerda vibrante. ANIMACIÓN 
+[La cuerda ''pellizcada''].(cuadernos/Plucked_String.ipynb) Solución explícita a un problema de cuerda vibrante. ANIMACIÓN 
 
 ## Material de Apoyo
 
