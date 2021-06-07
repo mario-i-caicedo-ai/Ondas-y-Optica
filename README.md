@@ -77,7 +77,7 @@ temas del curso de física 5 de la Universidad Simón Bolívar que se solapan co
 
 Estos cuadernos corren directamente sobre [colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true). Para ejecutarlos, haga click en el ícono ''open colab'' que encontrará al abrir el enlace al cuaderno.
 
-[Oscilaciones Amortiguadas]()
+[Oscilaciones Amortiguadas](cuadernos/Oscilaciones_Amortiguadas.ipynb)
 
 [Modos Normales de la cuerda con extremos fijos](cuadernos/Modos_Normales_Cuerda_Vibrante.ipynb)
  
