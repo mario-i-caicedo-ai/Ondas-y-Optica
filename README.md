@@ -15,13 +15,19 @@ Este curso de nivel introductorio, presenta algunos contenidos tanto de la físi
   * Ondas en Tres dimensiones
    * Ondas electromagnéticas
 * Energía y su propagación. Vector de Poynting
-* Interfrencia y Difracción
+* Interferencia y Difracción
 * Ecuación Eikonal y Óptica Geométrica. Relación con el Principio de Fermat    
 
 ## Bibliografía para el curso
 
-* A. P. French. *Vibraciones y Ondas*. Editorial Reverté. 
-* F. S., Jr. Crawford. *Ondas*. Volumen III del Curso de Física de la Universidad de Berkeley. Editorial Reverté.
+1 A. P. French. *Vibraciones y Ondas*. Editorial Reverté. 
+2 F. S., Jr. Crawford. *Ondas*. Volumen III del Curso de Física de la Universidad de Berkeley. Editorial Reverté.
+
+## Bibliografía Avanzada
+
+1 B. A. Auld, *Acoustic fields and waves in solids*, A Wiley-Interscience publication, 1973. isbn 9785885013437
+2 M. Born & E. Wolf, *Principles of Optics*, Cambridge University Press, 1999. isbn 9780521642224
+
 
 ## Material de Estudio
 
