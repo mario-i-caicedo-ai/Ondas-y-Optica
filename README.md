@@ -79,7 +79,7 @@ Estos cuadernos corren directamente sobre [colab](https://colab.research.google.
 
 [Oscilaciones Amortiguadas](cuadernos/Oscilaciones_Amortiguadas.ipynb)
 
-[Modos normales de dos osciladores acoplados](cuadernos/2_osciladores_acoplados.ipynb)
+[Modos normales de dos osciladores acoplados]()
 
 [Modos Normales de la cuerda con extremos fijos](cuadernos/Modos_Normales_Cuerda_Vibrante.ipynb)
  
