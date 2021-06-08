@@ -83,7 +83,7 @@ Estos cuadernos corren directamente sobre [colab](https://colab.research.google.
  
 [Modos Normales de una membrana rectangular](cuadernos/Modos_Normales_Membrana_rectangular.ipynb)
 
-[Modos Normales de una membrana circular](cuadernos/Modos_Normales_Membrana_Circular.ipynb)
+[Modos Normales de una membrana circular](cuadernos/Modos_Normales_Membrana_Circular.ipynb) https://es.wikipedia.org/wiki/Vibraciones_de_una_membrana_circular
 
 [La cuerda ''pellizcada''](cuadernos/Plucked_String.ipynb) Solución explícita a un problema de cuerda vibrante. ANIMACIÓN
 
