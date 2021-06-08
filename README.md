@@ -79,6 +79,8 @@ Estos cuadernos corren directamente sobre [colab](https://colab.research.google.
 
 [Oscilaciones Amortiguadas](cuadernos/Oscilaciones_Amortiguadas.ipynb)
 
+[Modos normales de dos osciladores acoplados](2_osciladores_acoplados.ipynb)
+
 [Modos Normales de la cuerda con extremos fijos](cuadernos/Modos_Normales_Cuerda_Vibrante.ipynb)
  
 [Modos Normales de una membrana rectangular](cuadernos/Modos_Normales_Membrana_rectangular.ipynb)
