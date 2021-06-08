@@ -77,6 +77,8 @@ temas del curso de física 5 de la Universidad Simón Bolívar que se solapan co
 
 Estos cuadernos corren directamente sobre [colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true). Para ejecutarlos, haga click en el ícono ''open colab'' que encontrará al abrir el enlace al cuaderno.
 
+[Soluciones numéricas de Ecuaciones Diferenciales Ordinarias](cuadernos(Sol_Num_de_EDO.ipynb) El material contenido en este cuaderno no forma parte del contenido del curso, sin embargo, puede resultar de mucha ayuda.
+
 [Oscilaciones Amortiguadas](cuadernos/Oscilaciones_Amortiguadas.ipynb)
 
 [Modos normales de dos osciladores acoplados](cuadernos/2_osciladores_acoplados.ipynb)
