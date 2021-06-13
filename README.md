@@ -61,7 +61,7 @@ temas del curso de física 5 de la Universidad Simón Bolívar que se solapan co
 
 [Semana 6](tareas/Semana_6__Tarea_5.pdf). Ondas parte II. Introducción a las Series de Fourier
 
-[Semana 7]().
+[Semana 7](). 
 
 [Semana 8](). 
 
