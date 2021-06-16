@@ -45,7 +45,7 @@ Este curso de nivel introductorio, presenta algunos contenidos tanto de la físi
 [Semana 5. Presentación](notas/SEMANA_5_Ondas_y_Optica_Parte_II.pdf). Comienza la segunda etapa del curso. **Fenómenos de propagación de ondas**. En esta parte nos concentraremos en las [Notas del curso Física 5](notas/fisica5book.pdf), documento que contiene 
 temas del curso de física 5 de la Universidad Simón Bolívar que se solapan con temas del curso de Ondas y Óptica
 
-[Semanas 6 y 7]. Continuación de la segunda etapa del curso. Continúan las lecturas basadas en las [Notas del curso Física 5](notas/fisica5book.pdf), esta parte del curso concluye con algunos aspectos de las ondas electromagnéticas.
+[Semanas 6 y 7]. Continuación de la segunda etapa del curso. Continúan las lecturas basadas en las [Notas del curso Física 5](notas/fisica5book.pdf), esta parte del curso concluye con algunos aspectos de las [ondas electromagnéticas](notas/Ondas_Electromagnéticas.pdf).
 
 ## Tareas
 
