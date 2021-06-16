@@ -57,11 +57,11 @@ temas del curso de física 5 de la Universidad Simón Bolívar que se solapan co
 
 [Semana 4. Tarea 3](tareas/Seemana_4__Tarea_3.pdf). Resonancia en osciladores acoplados. Introducción a la **Ecuación de Ondas, ondas viajeras y estacionarias** 
 
-[Semana 5](tareas/Seemana_5__Tarea_4.pdf) Introducción a las ondas.
+[Semana 5. Tarea 4](tareas/Seemana_5__Tarea_4.pdf) Introducción a las ondas.
 
-[Semana 6](tareas/Semana_6__Tarea_5.pdf). Ondas parte II. Introducción a las Series de Fourier
+[Semana 6. Tarea 5](tareas/Semana_6__Tarea_5.pdf). Ondas parte II. Introducción a las Series de Fourier
 
-[Semana 7](tareas/Semana_7_Tarea_6.pdf). Reflexión y Transmisión de Ondas. Ondas Electromagnéticas 
+[Semana 7. Tarea 6](tareas/Semana_7_Tarea_6.pdf). Reflexión y Transmisión de Ondas. Ondas Electromagnéticas 
 
 [Semana 8](). 
 
