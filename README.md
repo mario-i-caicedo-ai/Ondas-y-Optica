@@ -47,7 +47,7 @@ temas del curso de física 5 de la Universidad Simón Bolívar que se solapan co
 
 [Semanas 6 y 7]. Continuación de la segunda etapa del curso. Continúan las lecturas basadas en las [Notas del curso Física 5](notas/fisica5book.pdf), esta parte del curso concluye con algunos aspectos de las [ondas electromagnéticas](notas/Ondas_Electromagn_ticas.pdf).
 
-[Semana 8]. Interferencia, (notas/Interferencia.pdf).
+[Semana 8]. [Interferencia](notas/Interferencia.pdf).
 
 ## Tareas
 
