@@ -65,7 +65,7 @@ temas del curso de física 5 de la Universidad Simón Bolívar que se solapan co
 
 [Semana 7. Tarea 6](tareas/Semana_7_Tarea_6.pdf). Reflexión y Transmisión de Ondas. Ondas Electromagnéticas 
 
-[Semana 8](). 
+[Semana 8](tareas/Semana_8__Tarea_7.pdf). 
 
 [Semana 9](). 
 
