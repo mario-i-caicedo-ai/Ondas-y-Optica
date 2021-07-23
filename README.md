@@ -67,9 +67,7 @@ temas del curso de física 5 de la Universidad Simón Bolívar que se solapan co
 
 [Semana 8. Tarea 7](tareas/Semana_8__Tarea_7.pdf). Interferencia y Difracción 
 
-[Semana 9](). 
-
-[Semana 10]().
+[Semanas 9 y 10](tareas/Semana_9__Tarea_8.pdf). 
 
 [Semana 11](). 
 
