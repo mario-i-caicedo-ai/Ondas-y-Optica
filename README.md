@@ -69,7 +69,7 @@ temas del curso de física 5 de la Universidad Simón Bolívar que se solapan co
 
 [Semanas 9 y 10](tareas/Semana_9__Tarea_8.pdf). Óptica Geométrica
 
-[Semana 11](). 
+[Semana 11](tareas/Semana_10__Tarea_9.pdf). 
 
 [Semana 12](). 
 
