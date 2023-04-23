@@ -32,7 +32,7 @@ Este curso de nivel introductorio, presenta algunos contenidos tanto de la físi
 
 ## Material de Estudio (Apuntes, clases y videos)
 
-[Bienvenida](CLASE_0_Ondas_y__ptica.pdf)
+[Bienvenida](notas/CLASE_0_Ondas_y__ptica.pdf)
 
 [Semana 1.]. Repaso de mecánica del punto y ecuaciones diferenciales
 
