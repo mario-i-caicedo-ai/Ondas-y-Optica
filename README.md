@@ -30,7 +30,7 @@ Este curso de nivel introductorio, presenta algunos contenidos tanto de la físi
 2. M. Born & E. Wolf, *Principles of Optics*, Cambridge University Press, 1999. isbn 9780521642224
 
 
-## Material de Estudio
+## Material de Estudio (Apuntes, clases y videos)
 
 [Semana 1.]. Repaso de mecánica del punto y ecuaciones diferenciales
 
