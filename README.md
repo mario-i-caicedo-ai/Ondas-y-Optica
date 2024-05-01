@@ -91,7 +91,7 @@ Estos cuadernos corren directamente sobre [colab](https://colab.research.google.
 
 [Modos Normales de una membrana circular](cuadernos/Modos_Normales_Membrana_Circular.ipynb). Solución explícita de la ecuación de ondas en coordenadas polares, compare coneste artículo de la [Wikipedia](https://es.wikipedia.org/wiki/Vibraciones_de_una_membrana_circular)
 
-[La cuerda ''pellizcada''](Ondas-y-Optica/cuadernos
+[La cuerda ''pellizcada''](cuadernos
 /Plucked_String.ipynb) Aplicación de las series de Fourier a la solución de un problema de vibraciones de una cuerda de extremos fijos.
 
 [Onda Viajera](cuadernos/Onda_Viajera_1D.ipynb)   
