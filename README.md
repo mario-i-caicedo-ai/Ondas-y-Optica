@@ -4,6 +4,14 @@
 
 Este curso de nivel introductorio, presenta algunos contenidos tanto de la física ondulatoria y ''óptica geométrica'', como de algunos métodos matemáticos de interés para tales temas.
 
+**Notas:** 
+
+* Para abrir los enlaces en un tabulador alterno, utilice: "Ctrl"+click (lamentablemente, GitHub aún carece de una herramienta natural para lograr esto)
+  
+* Github puede tener problemas al tratar de desplegar un archivo pdf, si tal cosa ocurre, descargue el archivo.
+  
+* Este curso/repositorio está en construcción permanente, regrese de vez en cuando a ver que cambios encuentra.
+
 ### Algunos temas del Curso
 
 * Oscilaciones Lineales
